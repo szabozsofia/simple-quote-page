@@ -1,2 +1,2 @@
 # simple-quote-page
-Freedom
+A simple quote page
